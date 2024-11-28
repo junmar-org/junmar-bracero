@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "@nuxt/http": "^0.1.2",
-    "axios": "^0.18.0",
+    "axios": "^0.28.0",
     "nuxt": "^2.6.3",
     "nuxt-start": "^2.6.3",
     "serverless-apigw-binary": "^0.4.4",
@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "serverless-domain-manager": "^3.2.1",
-    "serverless-offline": "^4.10.0"
+    "serverless-offline": "^8.1.0"
   }
 }
